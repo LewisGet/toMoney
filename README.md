@@ -1,5 +1,7 @@
 # 使用方法
 
+[youtube 教學](http://youtu.be/NuJDAMrOcTc)
+
 1. 請把 書簽 soruce 加入書籤
 2. 在網頁中點書簽的 toMoney
 3. 匡選你要轉換的數字
